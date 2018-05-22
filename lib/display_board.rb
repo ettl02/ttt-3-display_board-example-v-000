@@ -4,5 +4,6 @@ def display_board
   end
   
 def display_board
-    return "  " | "   " | "   "
-  end
+   puts = "  " | "   " | "   "
+   
+  
